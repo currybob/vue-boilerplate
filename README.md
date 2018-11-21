@@ -1,5 +1,12 @@
 # vue-boilerplate
 
+## Includes
+
+- axios
+- vuex
+- element-ui
+- prettier
+
 ## Project setup
 ```
 yarn install
