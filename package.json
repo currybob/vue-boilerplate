@@ -26,6 +26,7 @@
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0-0",
     "node-sass": "^4.10.0",
+    "prettier": "^1.15.2",
     "sass-loader": "^7.1.0",
     "vue-cli-plugin-axios": "^0.0.4",
     "vue-cli-plugin-element-ui": "^1.1.4",
